@@ -8,9 +8,9 @@
 <p> </p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EXu-sn3f5otBvKjluJZc6uwBech995sGCAduL7FoT5-xZQ?e=vpt0b8">Aula 3</a> - Azure (Introdução)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EcE4PxrCshVNsq1MZ7vAMIkBrhCGURNUX30jY7Y1H7ndwg?e=CDT0bf">Aula 3.1</a> - Docker</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Edk1PUH4TyVMvm7IvCFP5RUBZbSRsp0lKY3CloP53lNN-w?e=fPhgUp" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Edk1PUH4TyVMvm7IvCFP5RUBZbSRsp0lKY3CloP53lNN-w?e=fPhgUp">Aula 3.2</a> - Docker (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/Eahj17ZyJR5Oh4ShRCoCjB4BH7npMeW0KhBD5od7ChGBnQ?e=WzggYy">Aula 3.3</a> - Tarefa 1 (VM para ambientes)</p>
 <!--
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Edk1PUH4TyVMvm7IvCFP5RUBZbSRsp0lKY3CloP53lNN-w?e=fPhgUp" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Edk1PUH4TyVMvm7IvCFP5RUBZbSRsp0lKY3CloP53lNN-w?e=fPhgUp">Aula 3.2</a> - Docker (videoaula)</p>
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m">Aula 4</a> - Criação de imagens</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT">Aula 4.1</a> - Tarefa 2 (Criação de imagens por commit)</p>
