@@ -13,12 +13,14 @@
 <br>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EWl-hC43s7tBl_fKirn50NEBg1yP305kFEvtNSV6K10l_Q?e=ED8R6m">Aula 4</a> - Criação de imagens</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EZi_RcaKPAtOr3Vbun7jjkUBFbWp80TLBIjEh9m2elvQyw?e=M2UHhT">Aula 4.1</a> - Tarefa 2 (Criação de imagens por commit)
+
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5">Aula 5</a> - Dockerfile</p>
+
   
 <!--
 
 </p>
 <br>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EX7URpXNzxJMkAMjvdsF2AcBuduqq6o_jJ9w0yVQ4aZ3bg?e=9OTfE5">Aula 5</a> - Dockerfile</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi" mce_href="https://academicoifrnedu.sharepoint.com/:v:/s/DSC2024.1/Eare-qJqT09Fmb_qzrkSecMBp59QRCMVERjUzZE27s0MZw?e=qrBlTi">Aula 5.1</a> - Dockerfile (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSC2024.1/EYH9ODirj19GhfgHLqXqcMkBSS8K9Yhjtp-6o-k37dR5rg?e=CqDodw">Aula 5.2</a> - Tarefa 3 (Dockerfile)</p>
 <br>
